@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Name of the heroku app - itsawesome-net.herokuapp.com
 
-Things you may want to cover:
+* Ruby version - ruby-2.3.1
 
-* Ruby version
+* Rails version - rails5.0
 
-* System dependencies
+* Database Development:test - sqlite3
 
-* Configuration
+* Database Production - PostgreSQL
 
-* Database creation
+* Deployed in Heroku
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
